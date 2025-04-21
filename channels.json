@@ -1,86 +1,93 @@
 [
   {
-    "name": "Ruposhi Bangla",
-    "url": "http://38.96.178.201/live/RuposhiBangla/index.m3u8",
+    "id": "122",
+    "name": "BTV",
     "category": "Entertainment",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/9/9d/Ruposhi_Bangla_Logo.png"
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561595482.png",
+    "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/index.m3u8"
   },
   {
-    "name": "Dhoom Music",
-    "url": "http://38.96.178.201/live/Dhoom/index.m3u8",
-    "category": "Music",
-    "logo": "https://via.placeholder.com/40?text=Dhoom"
-  },
-  {
-    "name": "Colors Bangla",
-    "url": "http://38.96.178.201/live/ColorsBangla/index.m3u8",
+    "id": "134",
+    "name": "Deepto TV HD",
     "category": "Entertainment",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/3/37/Colors_Bangla_logo.png"
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png",
+    "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1711/output/index.m3u8"
   },
   {
-    "name": "Akash AATH",
-    "url": "http://38.96.178.201/live/AkashAath/index.m3u8",
-    "category": "Entertainment",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/Akash_Aath_logo.jpg"
-  },
-  {
-    "name": "Star Jalsha HD",
-    "url": "http://38.96.178.201/live/STARJALSHA/index.m3u8",
-    "category": "Entertainment",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/9/96/Star_Jalsha_HD_Logo.png"
-  },
-  {
-    "name": "Jalsha Movies HD",
-    "url": "http://38.96.178.201/live/JalshaMovies/index.m3u8",
-    "category": "Entertainment",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/6/6f/Jalsha_Movies.png"
-  },
-  {
-    "name": "Sangeet Bangla",
-    "url": "http://38.96.178.201/live/SangeetBangla/index.m3u8",
-    "category": "Music",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/e/e9/Sangeet_Bangla_logo.png"
-  },
-  {
-    "name": "T Sports",
-    "url": "http://38.96.178.201/live/TSports/index.m3u8",
-    "category": "Sports",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/T_Sports_Logo.png/220px-T_Sports_Logo.png"
-  },
-  {
-    "name": "Gazi TV",
-    "url": "http://38.96.178.201/live/GaziTV/index.m3u8",
-    "category": "Sports",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/4/4d/GTV_Bangladesh_Logo.png"
-  },
-  {
-    "name": "ATN News",
-    "url": "http://38.96.178.201/live/ATNNews/index.m3u8",
-    "category": "News",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/c/c9/ATN_News_Logo.png"
-  },
-  {
-    "name": "Channel i",
-    "url": "http://38.96.178.201/live/ChannelI/index.m3u8",
-    "category": "News",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/4/4e/Channel_i_Logo.png"
-  },
-  {
+    "id": "97",
     "name": "Jamuna TV",
-    "url": "http://38.96.178.201/live/JamunaTV/index.m3u8",
     "category": "News",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/4/45/Jamuna_Television_logo.png"
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png",
+    "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1701/output/index.m3u8"
   },
   {
-    "name": "Sony HD",
-    "url": "http://38.96.178.201/live/SonyHD/index.m3u8",
+    "id": "93",
+    "name": "ATN News",
+    "category": "News",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png",
+    "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1706/output/index.m3u8"
+  },
+  {
+    "id": "100",
+    "name": "Bangla Vision",
     "category": "Entertainment",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/9/9f/Sony_Entertainment_Television_Logo.png"
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png",
+    "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1715/output/index.m3u8"
   },
   {
-    "name": "Disney",
-    "url": "http://38.96.178.201/live/Disney/index.m3u8",
-    "category": "Kids",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney%2B_logo.svg"
+    "id": "94",
+    "name": "Channel 24 HD",
+    "category": "News",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png",
+    "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/index.m3u8"
+  },
+  {
+    "id": "102",
+    "name": "Ekattor HD",
+    "category": "News",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png",
+    "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1705/output/index.m3u8"
+  },
+  {
+    "id": "96",
+    "name": "Independent TV",
+    "category": "News",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739964387847.png",
+    "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1704/output/index.m3u8"
+  },
+  {
+    "id": "99",
+    "name": "NTV",
+    "category": "Entertainment",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png",
+    "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/index.m3u8"
+  },
+  {
+    "id": "98",
+    "name": "Somoy TV",
+    "category": "News",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png",
+    "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/index.m3u8"
+  },
+  {
+    "id": "131",
+    "name": "ATN Bangla",
+    "category": "Entertainment",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1740553740665.png",
+    "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1722/output/index.m3u8"
+  },
+  {
+    "id": "132",
+    "name": "Channel I HD",
+    "category": "Entertainment",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png",
+    "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1723/output/index.m3u8"
+  },
+  {
+    "id": "65",
+    "name": "HUM TV",
+    "category": "Entertainment",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963480044.png",
+    "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1721/output/index.m3u8"
   }
 ]
