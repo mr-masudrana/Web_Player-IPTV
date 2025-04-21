@@ -1,0 +1,44 @@
+body {
+  background-color: #f8f9fa;
+}
+.channel-list {
+  max-height: 100vh;
+  overflow-y: auto;
+  border-left: 1px solid #dee2e6;
+}
+.channel-item {
+  cursor: pointer;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #eee;
+}
+.channel-item:hover {
+  background-color: #e9ecef;
+}
+.channel-logo {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+  margin-right: 10px;
+}
+video {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+.search-bar {
+  padding: 10px;
+}
+.sticky-player {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background-color: #f1f1f1;
+  padding: 10px;
+}
+.category-header {
+  padding: 8px 12px;
+  font-weight: bold;
+  background-color: #f1f1f1;
+}

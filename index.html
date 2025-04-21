@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>TV Web Player</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container-fluid">
+  <div class="row">
+    <!-- Video Player -->
+    <div class="col-md-9 p-3 sticky-player">
+      <h5 class="text-center mt-3">IPTV</h5>
+      <video id="tvPlayer" controls autoplay></video>
+    </div>
+    <!-- Channel List -->
+    <div class="col-md-3 bg-white channel-list">
+      <h5 class="text-center mt-3">Channel List</h5>
+      <div class="search-bar">
+        <input type="text" id="searchInput" class="form-control" placeholder="Search channels...">
+      </div>
+      <select id="categoryFilter" class="form-select m-2">
+        <option value="">All Categories</option>
+      </select>
+      <div id="channelList"></div>
+    </div>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+<script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Ruposhi Bangla",
+    "url": "http://38.96.178.201/live/RuposhiBangla/index.m3u8",
+    "category": "Entertainment",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/9/9d/Ruposhi_Bangla_Logo.png"
+  },
+  {
+    "name": "Dhoom Music",
+    "url": "http://38.96.178.201/live/Dhoom/index.m3u8",
+    "category": "Music",
+    "logo": "https://via.placeholder.com/40?text=Dhoom"
+  },
+  {
+    "name": "Colors Bangla",
+    "url": "http://38.96.178.201/live/ColorsBangla/index.m3u8",
+    "category": "Entertainment",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/3/37/Colors_Bangla_logo.png"
+  },
+  {
+    "name": "Akash AATH",
+    "url": "http://38.96.178.201/live/AkashAath/index.m3u8",
+    "category": "Entertainment",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/Akash_Aath_logo.jpg"
+  },
+  {
+    "name": "Star Jalsha HD",
+    "url": "http://38.96.178.201/live/STARJALSHA/index.m3u8",
+    "category": "Entertainment",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/9/96/Star_Jalsha_HD_Logo.png"
+  },
+  {
+    "name": "Jalsha Movies HD",
+    "url": "http://38.96.178.201/live/JalshaMovies/index.m3u8",
+    "category": "Entertainment",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/6/6f/Jalsha_Movies.png"
+  },
+  {
+    "name": "Sangeet Bangla",
+    "url": "http://38.96.178.201/live/SangeetBangla/index.m3u8",
+    "category": "Music",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/e/e9/Sangeet_Bangla_logo.png"
+  },
+  {
+    "name": "T Sports",
+    "url": "http://38.96.178.201/live/TSports/index.m3u8",
+    "category": "Sports",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/T_Sports_Logo.png/220px-T_Sports_Logo.png"
+  },
+  {
+    "name": "Gazi TV",
+    "url": "http://38.96.178.201/live/GaziTV/index.m3u8",
+    "category": "Sports",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/4/4d/GTV_Bangladesh_Logo.png"
+  },
+  {
+    "name": "ATN News",
+    "url": "http://38.96.178.201/live/ATNNews/index.m3u8",
+    "category": "News",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/c/c9/ATN_News_Logo.png"
+  },
+  {
+    "name": "Channel i",
+    "url": "http://38.96.178.201/live/ChannelI/index.m3u8",
+    "category": "News",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/4/4e/Channel_i_Logo.png"
+  },
+  {
+    "name": "Jamuna TV",
+    "url": "http://38.96.178.201/live/JamunaTV/index.m3u8",
+    "category": "News",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/4/45/Jamuna_Television_logo.png"
+  },
+  {
+    "name": "Sony HD",
+    "url": "http://38.96.178.201/live/SonyHD/index.m3u8",
+    "category": "Entertainment",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/9/9f/Sony_Entertainment_Television_Logo.png"
+  },
+  {
+    "name": "Disney",
+    "url": "http://38.96.178.201/live/Disney/index.m3u8",
+    "category": "Kids",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney%2B_logo.svg"
+  }
+]
