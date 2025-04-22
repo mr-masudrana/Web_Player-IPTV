@@ -89,5 +89,29 @@
     "category": "Entertainment",
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963480044.png",
     "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1721/output/index.m3u8"
+  },
+  {
+    "name": "Al Jazeera",
+    "category": "English News",
+    "url": "https://live-hls-web-aje.getaj.net/AJE/03.m3u8",
+    "logo": "https://www.lyngsat.com/logo/tv/aa/aljazeera-channel-al.png"
+  },
+  {
+    "name": "BBC News",
+    "category": "English News",
+    "url": "http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8",
+    "logo": "https://www.lyngsat.com/logo/tv/bb/bbc-news-uk.svg"
+  },
+  {
+    "name": "CNN",
+    "category": "English News",
+    "url": "https://d30x5vsa85tvmd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7y561g9sa9uht/index.m3u8",
+    "logo": "https://www.lyngsat.com/logo/tv/cc/cnn-us.svg"
+  },
+  {
+    "name": "DW",
+    "category": "English News",
+    "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8",
+    "logo": "https://www.lyngsat.com/logo/tv/dd/deutsche_welle_tv_de.png"
   }
 ]
